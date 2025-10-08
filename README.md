@@ -5,8 +5,7 @@ hello guys i made my own SoftEther VPN Installer With CMD!
 heres how i made it
 1. at first, i started with the code
 `@ echo off`
-2. then i changed the title to "**SoftEther VPN Installer**" with
-`TITLE SoftEther VPN Installer`
+2. then i changed the title to "**SoftEther VPN Installer**" with `TITLE SoftEther VPN Installer`
 3. i put some code to ask the user to choose Y/N (yes or no) with
 `CHOICE /C YN /M "Are You Sure You Want To Install SoftEther VPN?"
 IF %ERRORLEVEL% EQU 1 GOTO YesAction
