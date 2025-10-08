@@ -23,7 +23,7 @@ exit`
 5. i then put `cd Documents` to change the directory to documents and `cls` to clear all the text.
 6. after that i put `mkdir VPNGate` and `cd VPNGate` to make a folder called "**VPNGate**" and to change the directory to "**VPNGate**".
 7. i then used `curl` to download the softether vpn zip file by using the code `curl https://download.vpngate.jp/common/cd.aspx/vpngate-client-2025.10.08-build-9807.162954.zip > vpngate-client-2025.10.08-build-9807.162954.zip` ( Arrow is to verify the file/extension)
-8. then, i used `tar` to extract the file by using `tar -xf vpngate-client-2025.10.08-build-9807.162954.zip` (-xf to extract, and <name> to extract the zip.)
+8. then, i used `tar` to extract the file by using `tar -xf vpngate-client-2025.10.08-build-9807.162954.zip` (-xf to extract, and the FILE NAME to extract that exact zip.)
 9. i used `start` to start the setup by using `start vpngate-client-v4.44-9807-rtm-2025.04.16.exe`.
 10. at last, i used some some code to do some sleep (wait) and some echoes. `timeout /t 1 >nul
 echo Opened! Press Any Key To Exit...
