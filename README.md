@@ -1,5 +1,5 @@
 # SoftEther VPN Installer... but with .bat
-## download [Here](https://github.com/itsame62/SoftEtherVPN-bat-Installer/releases/)!
+## Download [Here](https://github.com/itsame62/SoftEtherVPN-bat-Installer/releases/)!
 ### ALL CREDITS TO UNIVERSITY IF TSUKUBA, JAPAN, THIS IS MADE ONLY FOR EDUCATIONAL PURPOSES!!
 hello guys i made my own SoftEther VPN Installer With CMD!
 heres how i made it
@@ -33,3 +33,4 @@ pause >nul
 GOTO End
 `
 ### THANKS FOR READING!
+### Source Code/Files Used Will Be Inside The Respository's Files.
